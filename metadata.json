@@ -1,0 +1,6 @@
+{
+  "name": "VersionVault",
+  "description": "Enterprise file versioning and synchronization system with SHA-256 integrity verification, content deduplication, optimistic locking, and conflict resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
